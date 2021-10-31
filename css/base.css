@@ -16,8 +16,12 @@ header{
     display: flex;
     height: 20vh;
     max-height: 15vw;
-    position: relative;
+    position: sticky;
     z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 2px 6px 2px black;
     
 }
 #logo{
