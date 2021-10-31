@@ -34,7 +34,7 @@ document.getElementsByTagName('header')[0].innerHTML=`
             <div id="navbar">
                 <div class="skew_back"></div>
                 <div id="nav_links">
-                    <div class="links"><a href="/">Home</a></div>
+                    <div class="links"><a href="index.html">Home</a></div>
                     <div class="links"><a href="about.html">About Us</a></div>
                     <div class="links"><a href="products.html">Products</a>
                         <div id="dropdown_1">
