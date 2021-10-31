@@ -1,0 +1,256 @@
+/* flash header */
+
+#flash_header{
+    position: relative;
+    /* z-index: -1; */
+    height:30vw;
+    min-height: 20vh;
+    width: 99%;
+    margin: auto;
+    overflow-x: hidden;
+}
+.flash_images{
+    width: 100%;
+    height: 100%;
+    /* margin: auto; */
+}
+.flash_images img{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    /* display: none; */
+}
+.flash_images_foreground{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    /* filter: blur(2px); */
+}
+
+.flash_images_content{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    height: 100%;
+    width: 99%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    color: white;
+    margin-left: 100px;
+    /* animation: text_animation 2s 1 linear forwards ; */
+}
+.flash_images_content>h1{
+    font-size: 3rem;
+}
+.buttons>button{
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    margin: 10px;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 50px;
+    /* box-shadow: 0px 0px 2px 2px black; */
+}
+button:nth-child(1){
+    background-color: #e54832;
+}
+button:nth-child(1):hover{
+    background-color: #f34731;
+}
+button:nth-child(2){
+    background-color: #014c86;
+}
+button:nth-child(2):hover{
+    background-color: #00589b;
+}
+@keyframes coming{
+    0% {left: 100%;}
+    100% {left: 0%;}
+}
+@keyframes going{
+    0% {left: 0%;}
+    100% {left: -100%;}
+    
+}
+@keyframes text_animation{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+/* flash header end */
+/* mission vision */
+.mission_vision{
+    width: 100%;
+    height: fit-content;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    background-color: #171717;
+    background:linear-gradient(45deg, #014c86 20%, #fff 0%, #fff 80%, #014c86 80%);
+}
+.mission, .vision{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 50px;
+    background-color: rgb(214, 214, 214);
+    background-color:#fff;
+    box-shadow: 0px 0px 3px 2px #014c86;
+    margin: 20px;
+}
+.mission_content>h1,.mission_content>p, .vision_content>h1, .vision_content>p{
+height: fit-content;
+width: fit-content;
+margin:10px auto;
+
+}
+/* mission vision end */
+
+/* welcome msg */
+.welcome{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    padding: 50px;background-color: rgb(230, 230, 230);
+
+}
+
+.welcome_msg{
+    width: 60%;
+    padding: 40px;
+    /* background-color: tomato; */
+}
+.welcome_img{
+    width: 40%;
+    /* background-color: teal; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.welcome_img>img{
+    height: 90%;
+    width: 90%;
+}
+.welcome_msg>button{
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    margin: 10px;
+    color: white;
+    font-size: 1.5rem;
+    background-color: #e54832;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+.welcome_msg>button:hover{
+    background-color: #f1452e;
+}
+.welcome_msg>h1{
+    color: #014880;
+}
+.welcome_msg>p{
+    margin-left: 20px;
+    color: rgb(70, 70, 70);
+}
+/* welcome msg end */
+
+/* button gallery */
+.button_gallery{
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    padding:70px 0px;
+    height: fit-content;
+}
+.button_gallery::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: url("https://www.flutter.com/sites/paddy-power-betfair/files/ppb-header.png");
+    background-size: 100% 100%;
+    z-index: -1;
+    opacity: 0.7;
+}
+#new_gallery{
+    width: 900px;
+    margin: auto;
+    background-color: #f3f3f3;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 0px 6px 2px black;
+    }
+  
+   
+    #new_strip{
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        position: absolute;
+        top: 0;
+        overflow-y: hidden;    
+    }
+    .new_frame{
+        width: 300px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .new_frame>img{
+        width: 300px;
+        height: 300px;
+        border: 1px solid #fff;
+    }
+    .frame_title{
+        width: 300px;
+        height: 50px;
+        text-align: center;
+        padding: 5px;
+        /* background-color: #ef4f57; */
+        color: #e54832;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid white;
+    }
+   
+    #new_left{
+        position: absolute;
+        top: 50%;
+        left: 1px;
+        font-size: 2rem;
+    }
+    #new_right{
+        position: absolute;
+        top: 50%;
+        right: 0;
+        font-size: 2rem;
+    }
+    #new_left:hover,#new_right:hover{
+        transition: transform .2s linear;
+        transform: scale(1.4);
+    }
+/* button gallery end */
+/* location */
+.location{
+    width: 100%;
+    height: 30vw;
+}
+.location>iframe{
+    width: 100%;
+    height: 100%;
+}
+/* location end */
+

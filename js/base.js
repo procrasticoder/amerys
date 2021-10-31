@@ -1,0 +1,177 @@
+
+document.getElementsByTagName('header')[0].innerHTML=`
+<div id="logo">
+            <img src="images/logo.jpg" alt="Company Logo">
+        </div>
+        <nav>
+            <div id="infobar">
+                <div class="info_items">
+                    <div class="mail">
+                        <i class="fa fa-envelope fa-lg"></i> &nbsp; &nbsp;
+                        <div class="content">
+                            <div style="font-size: 0.8rem; color: rgb(56, 51, 51);">Send us an email</div>
+                            <div>demo@gmail.com</div>
+                        </div>
+                    </div>
+                    <div class="phone">
+                        <i class="fa fa-phone fa-lg"></i> &nbsp; &nbsp;
+                        <div class="content">
+                            <div style="font-size: 0.8rem; color: rgb(56, 51, 51);">Call Us</div>
+                            <div>+91-8889787658</div>
+                        </div>
+                    </div>
+                    <div class="social">
+                        <i class="fa-lg fa fa-facebook"></i>
+                        <i class="fa-lg fa fa-twitter"></i>
+                        <i class="fa-lg fa fa-linkedin"></i>
+                        <i class="fa-lg fa fa-instagram"></i>
+                        <i class="fa-lg fa fa-youtube"></i>
+
+
+                    </div>
+                </div>
+            </div>
+            <div id="navbar">
+                <div class="skew_back"></div>
+                <div id="nav_links">
+                    <div class="links"><a href="/">Home</a></div>
+                    <div class="links"><a href="about.html">About Us</a></div>
+                    <div class="links"><a href="products.html">Products</a>
+                        <div id="dropdown_1">
+                            <div class="links_1"><a href="">PLAIN BATTS</a>
+                                <div id="dropdown_2">
+                                    <div class="links_2"><a href="">PRESSED BATTS</a></div>
+                                    <div class="links_2"><a href="">REFACTORY BATTS</a></div>
+                                    <div class="links_2"><a href="">CORDIERITE BATTS</a></div>
+                                    <div class="links_2"><a href="">EXTRUDED BATTS WITH INTERLOCK</a></div>
+                                    <div class="links_2"><a href="">INTERLOCK EXTRUDED BATTS</a></div>
+                                    <div class="links_2"><a href="">EXTRUDED BATTS</a></div>
+                                    <div class="links_2"><a href="">More Products..</a></div>
+                                    <!-- <div class="links_2"><a href="">CERAMICS BATTS</a></div>
+                                    <div class="links_2"><a href="">WHITE SAGGAR TRAY</a></div>
+                                    <div class="links_2"><a href="">SAGGAR TRAY WITH COVER</a></div>
+                                    <div class="links_2"><a href="">SAGGAR TRAY</a></div> -->
+
+                                </div>
+                            </div>
+                            <div class="links_1"><a href="">PROFILE SETTERS</a>
+                                <div id="dropdown_2">
+                                    <div class="links_2"><a href="">REFACTORY MATERIAL</a></div>
+                                    <div class="links_2"><a href="">REFACTORY SETTERS</a></div>
+                                </div>
+                            </div>
+                            <div class="links_1"><a href="">EXTRUDED BATTS</a>
+                                <div id="dropdown_2">
+                                    <div class="links_2"><a href="">SAGGAR TRAY</a></div>
+                                    <div class="links_2"><a href="">KILN PILLARS</a></div>
+                                    <div class="links_2"><a href="">REFACTORY COLLAR</a></div>
+                                    <div class="links_2"><a href="">OPEN SAGGAR TRAYS</a></div>
+                                    <div class="links_2"><a href="">CERAMICS SAGGAR TRAYS</a></div>
+                                    <div class="links_2"><a href="">SAGGAR TRAY WITH COVER</a></div>
+                                    <div class="links_2"><a href="">More Products...</a></div>
+
+                                </div>
+                            </div>
+                            <div class="links_1"><a href="">CORDIERITE KILN FURNITURE</a>
+                            <div id="dropdown_2">
+                                    <div class="links_2"><a href="">MULLITE CORDIERITE KILN FURNITURE</a></div>
+                                    <div class="links_2"><a href="">CORDIERITE KILN FURNITURE</a></div>
+                                    <div class="links_2"><a href="">CORDIERITE KILN FURNITURE PRODUCTS</a></div>
+
+                                </div>
+                            </div>
+                            <div class="links_1"><a href="">KILN FURNITURE</a>
+                            <!-- <div id="dropdown_2">
+                                    
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="links"><a href="contact.html">Contacts</a></div>
+
+                </div>
+            </div>
+        </nav>
+`;
+document.getElementsByTagName('footer')[0].innerHTML=`
+<div class="footer_one">
+            <div class="q_links">
+                <h3>
+                    Quick Links
+                </h3>
+                <a href="">Home</a>
+                <a href="">About Us</a>
+                <a href="">Products</a>
+                <a href="">Contact</a>
+                <div class="footerline"></div>
+            </div>
+            
+            <div class="q_links">
+                <h3>
+                    Our Products
+                </h3>
+                <a href="">PLAIN BATTS</a>
+                <a href="">PROFILE SETTERS</a>
+                <a href="">EXTRUDED BATTS</a>
+                <a href="">CORDIERITE KILN FURNITURE</a>
+                <a href="">KILN FURNITURE</a>
+                <div class="footerline"></div>
+            
+            </div>
+            
+            <div class="q_contact">
+                <h3>
+                    Contact Us
+                </h3>
+                <div class="q_contact_link">
+                    <i class="fa fa-home"></i>
+                    <p>Plot No 18, Vaghasiya Industrial Estate, Vaghasiya Village, Wankaner Taluka, Morbi - 363622, Gujarat, India</p>
+                </div>
+
+                <div class="q_contact_link">
+                    <i class="fa fa-phone"></i>
+                    <p>+91-9999999999</p>
+                </div>
+                <div class="q_contact_link">
+                    <i class="fa fa-envelope"></i>
+                    <a href="" style="text-decoration: underline; cursor: pointer;">demo@gmail.com</a>
+                </div>
+                <div class="footerline"></div>
+            
+            </div>
+
+            <div class="q_follow_us">
+                <h3>
+                    Follow Us
+                </h3>
+                <div class="q_follow_us_link">
+                    <i class="fa fa-facebook"></i>
+                    <p>facebook</p>
+                </div>
+
+                <div class="q_follow_us_link">
+                    <i class="fa fa-instagram"></i>
+                    <p>Instagram</p>
+                </div>
+                <div class="q_follow_us_link">
+                    <i class="fa fa-youtube"></i>
+                    <p>YouTube</p>
+                </div>
+                <div class="q_follow_us_link">
+                    <i class="fa fa-linkedin"></i>
+                    <p>Linkedln</p>
+                </div>
+                <div class="footerline"></div>
+            
+            </div>
+            </div>
+            <div class="footer_two">
+            <div class="footer_content">
+                All Rights Reserved. Rotomech Industries (Terms of Use)<br>
+                                <a href="https://adjointindia.com/" style="color: inherit; cursor: pointer;">Powered by AdJoint India</a>
+            </div>
+            <div class="footer_logo">
+                <img style="cursor:pointer;cursor:hand" src="https://seal.starfieldtech.com/images/3/en/siteseal_sf_3_h_l_m.gif"  alt="SSL site seal - click to verify">
+            </div>
+            </div>
+`
