@@ -1,7 +1,7 @@
 
 document.getElementsByTagName('header')[0].innerHTML=`
 <div id="logo">
-            <img src="images/logo.jpg" alt="Company Logo">
+            <img src="images/amerys_logo.png" alt="Company Logo">
         </div>
         <nav>
             <div id="infobar">
@@ -87,6 +87,8 @@ document.getElementsByTagName('header')[0].innerHTML=`
                             </div>
                         </div>
                     </div>
+                    <div class="links"><a href="certificates.html">Certificates</a></div>
+                    <div class="links"><a href="awards.html">Awards</a></div>
                     <div class="links"><a href="contact.html">Contacts</a></div>
 
                 </div>
@@ -102,6 +104,8 @@ document.getElementsByTagName('footer')[0].innerHTML=`
                 <a href="">Home</a>
                 <a href="">About Us</a>
                 <a href="">Products</a>
+                <a href="">Certificates</a>
+                <a href="">Awards</a>
                 <a href="">Contact</a>
                 <div class="footerline"></div>
             </div>
