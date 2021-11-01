@@ -898,3 +898,1039 @@ arr[14]={
                     <br>
                 </div>`
 }
+
+
+arr[15]={
+    title:'perforated_batts',
+    src:'',
+    content:`<h1 id="head"><u>Perforated Batts </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/04099934/b/4/Perforated-Batts.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Perforated Batts </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Perforated Batts are available with high insulation properties and excellent temperature resistant design. They are developed with several holes punched at definite spaces to ensure to provide maximum performance. They are available with high-temperature resistant design with outstanding thermal shock stability. With maximum durability and efficacy, they have become the prime choice of different sectors from square tiles, sanitary wares, glazed mosaic tiles, western-style tiles, electronic ceramics to soft magnetic materials.</p>
+            <br>
+
+            <h4>Features of Perforated Batts: </h4>
+            <ul>
+                <li>Can easily tolerate high temperatures during firing</li>
+                <li>No damage and deformation</li>
+                <li>Durable and sturdy design for long lasting efficacy</li>
+                <li>Easy to use and clean</li>
+            </ul>
+            <br>
+            <!--
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table> -->
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+
+arr[16]={
+    title:'ceramic_extruded_batts',
+    src:'',
+    content:` <h1 id="head"><u>Ceramic Extruded Batts </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/04099932/b/4/Ceramic-Extruded-Batts.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Ceramic Extruded Batts </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Ceramic Extruded Batts or Pressed Batts are designed in strong and sturdy yet lightweight design to ensure to provide the best results. They are available in a range of different dimensions from 18mm 25mm to 38mm thinness. They are available with a part-hollow section that ensures to save energy while heating the batts during the firing in kiln. In addition, they are also available with more perforation to permit extra heat flow. Designed from high-quality NSIC (nitride bond), RBSIC (reaction bond), cordierite, alumina and other materials, they provide long lasting performance.</p>
+            <br>
+
+            <h4>Features of Ceramic Extruded Batts or Pressed Batts: </h4>
+            <ul>
+                <li>Minimum density with maximum durability</li>
+                <li>Can withstand maximum temperature during firing</li>
+                <li>Save energy in every firing</li>
+                <li>Resistant to thermal shock cracking</li>
+            </ul>
+            <br>
+            <!--
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table> -->
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[17]={
+    title:'corner_cut_batts',
+    src:'',
+    content:`<h1 id="head"><u>Corner Cut Batts </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/04099941/b/4/Corner-Cut-Batts.jpg" alt="">
+
+    </div>`
+}
+arr[18]={
+    title:'ceramic_saggar_tray',
+    src:'',
+    content:` <h1 id="head"><u>Ceramic Saggar Tray </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430066/b/4/Ceramic-Saggar-Tray.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Ceramic Saggar Tray</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Ceramic Saggar Tray is designed from high quality and pure ceramic to add maximum durability. This is available in box shaped widely used in the firing of pottery for protecting ware from any fired inside a kiln. It provides absolute protection to the ware from gases, flame, smoke, and kiln debris. It is designed from cordierite ceramic, alumina ceramic, mullite ceramic silicon carbide, etc. It can be thermally cycled for hundreds of times without any deformation and degradation.</p>
+            <br>
+
+            <h4>Features of Ceramic Saggar Tray: </h4>
+            <ul>
+                <li>Ideal for high purity mullite & alumina refractories</li>
+                <li>High temperature resistant design with good strength</li>
+                <li>Tight tolerances with flexible shape capabilities</li>
+                <li>Excellent surface finishing with thermally shock resistant design</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[19]={
+    title:'industrial_kiln_furniture',
+    src:'',
+    content:` <h1 id="head"><u>Industrial Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430068/b/4/Industrial-Kiln-Furniture.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Industrial Kiln Furniture</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>The offered Kiln Furniture is manufactured and designed under the observation of adroit professionals using pristine quality clay and state of the art techniques. This furniture is highly admired to be used at homes, hotels, resorts and similar other places for accommodating varied items like kitchenware, books etc. Known for its excellent durability, long lasting sheen and fine finish, this Kiln Furniture can be bought from us at rock bottom rates.</p>
+            <br>
+
+            <!-- <h4>Features of Ceramic Saggar Tray: </h4>
+            <ul>
+                <li>Ideal for high purity mullite & alumina refractories</li>
+                <li>High temperature resistant design with good strength</li>
+                <li>Tight tolerances with flexible shape capabilities</li>
+                <li>Excellent surface finishing with thermally shock resistant design</li>
+            </ul> -->
+            <!-- <br> -->
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[20]={
+    title:'kiln_pillars',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Pillars</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430063/b/4/Kiln-Pillars.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Pillars</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Kiln Pillar is designed to meet different temperature ranges for offering maximum performance. This is developed with low mass using quality raw materials to ensure to provide superior thermal resistance. Selected brick grades are used in the production for long service life of the brick lining. The pillar is developed to overcome the challenges of intensive abrasion and heavy thermal shock. In addition, it is also ideal to withstand high thermo-mechanical stress as well as chemically aggressive conditions.  </p>
+            <br>
+
+            <!-- <h4>Features of Ceramic Saggar Tray: </h4>
+            <ul>
+                <li>Ideal for high purity mullite & alumina refractories</li>
+                <li>High temperature resistant design with good strength</li>
+                <li>Tight tolerances with flexible shape capabilities</li>
+                <li>Excellent surface finishing with thermally shock resistant design</li>
+            </ul> -->
+            <!-- <br> -->
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[21]={
+    title:'refractory_collar',
+    src:'',
+    content:` <h1 id="head"><u>Refractory Collar</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430064/b/5/Refractory-Collar.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Refractory Collar</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Round Tube Splicer And Collar are refractory products used in the kiln structure for ensuring to provide a better solution to kiln processes. They are developed from quality insulating bricks as well as ceramic fiber linings to make them ideal to withstand high temperatures and pressure. In addition, they are available in different sizes and dimensions to significantly increase the production rate as well as yields during the firing in kiln of ceramic products. </p>
+            <br>
+
+            <h4>Features of Round Tube Splicer And Collar: </h4>
+            <ul>
+                <li>Excellent thermal conductivity to help designing ceramic of high quality</li>
+                <li>Easy to maintain and clean</li>
+                <li>Save energy and reduce production cost</li>
+                <li>Highly durable that can easily withstand high temperatures</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[22]={
+    title:'saggar_trays',
+    src:'',
+    content:`<h1 id="head"><u>Saggar Trays</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430065/b/4/Saggar-Trays.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Saggar Trays</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Open Saggar Tray is kiln furniture designed in the form of a ceramic boxlike container widely used in the firing of pottery. It is used to enclose or protect the ware from high temperatures inside a kiln. It is also used to protect ware from open flame, gases, kiln debris, etc. It is designed from high quality alumina ceramic, mullite ceramic silicon carbide, cordierite ceramic and other materials to ensure to provide maximum strength as well as durability. </p>
+            <br>
+
+            <h4>Features of Open Saggar Tray:</h4>
+            <ul>
+                <li>Large in size for providing complete protection to products during firing</li>
+                <li>Widely used in the domain of glost or biscuit firing of tableware</li>
+                <li>Developed from semi-dry pressing and casting</li>
+                <li>Available with good thermal shock resistant design</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[23]={
+    title:'saggar_tray_2',
+    src:'',
+    content:`<h1 id="head"><u>Saggar Tray</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430062/b/4/Saggar-Tray.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Saggar Tray</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>By a dedicated team of professionals, the provided Saggar Tray is designed and manufactured using top notch quality clay and cutting edge techniques under the observation of deft professionals. Highly cherished for its impeccable finish, sturdiness and optimum durability, this tray is used for serving water, tea, coffee etc. Available in various sizes, the offered Saggar Tray is highly admired among the clients.  </p>
+            <br>
+<!-- 
+            <h4>Features of Open Saggar Tray:</h4>
+            <ul>
+                <li>Large in size for providing complete protection to products during firing</li>
+                <li>Widely used in the domain of glost or biscuit firing of tableware</li>
+                <li>Developed from semi-dry pressing and casting</li>
+                <li>Available with good thermal shock resistant design</li>
+            </ul>
+            <br> -->
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[24]={
+    title:'saggar_tray_with_cover',
+    src:'',
+    content:`<h1 id="head"><u>Saggar Tray With Cover</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430067/b/4/Saggar-Tray-With-Cover.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Saggar Tray With Cover</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Saggar Tray With Cover is available with thermally shock resistant design to ensure to provide complete protection to the materials. It is developed from pure mullite as well as high alumina refractories to ensure to provide protection to materials from high temperature and heat during firing in the kiln. It can be used in glass and ceramic kilns.
+
+            </p>
+            <br>
+
+            <h4>Features of Saggar Tray With Cover:</h4>
+            <ul>
+                <li>Available with maximum temperature resistant design</li>
+                <li>Tight tolerances</li>
+                <li>Excellent strength</li>
+                <li>Outstanding surface finishing</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[25]={
+    title:'roof_supporting_system',
+    src:'',
+    content:`<h1 id="head"><u>Roof Supporting System</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430070/b/4/Roof-Supporting-System.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Roof Supporting System</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Roof Supporting System is designed as a Kiln Furniture to be used to support for extruded as well as pressed batts. It is designed employing advanced semi-dry pressing method. In addition, it can also be developed using plastic-pressing or casting processes. It provides optimum support to roof with its properties of resisting to thermal shocks. It is also ideal to provide excellent performance in kiln during firing at very high temperatures.
+
+            </p>
+            <br>
+
+            <h4>Features of Roof Supporting System:</h4>
+            <ul>
+                <li>Excellent heating as well as cooling rates</li>
+                <li>Energy saving design that ensures to save money</li>
+                <li>Minimum thermal conductivity between the support as well as material</li>
+                <li>Outstanding homogeneity of temperature</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[26]={
+    title:'kiln_furniture',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Furniture</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/03430069/b/4/Kiln-Furniture.jpg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Furniture</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Kiln Furniture is necessary parts of ceramics. They are designed to provide stronger, reliable and efficient support to the kiln industry for making a range of products in refractories. With high sturdiness and durability, they ensure the development of quality assured pottery products. They are developed without any silica content from high quality ceramic, and other raw materials. Developed to withstand high temperatures up to 1750Â°C, they are sure to provide maximum performance and efficacy for years without any damage.
+
+            </p>
+            <br>
+
+            <h4>Features of Kiln Furniture:</h4>
+            <ul>
+                <li>Excellent temperature resistant design</li>
+                <li>Tight tolerances</li>
+                <li>Flexible shape capabilities</li>
+                <li>Good surface finish and thermally shock resistant</li>
+            </ul>
+            <br>
+            
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table>
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+
+arr[27]={
+    title:'mullite_cordierite_kiln_furniture',
+    src:'',
+    content:`
+    <h1 id="head"><u>Mullite Cordierite Kiln Furniture</u></h1>
+        <div class="image_section">
+
+            <img id="img" src="https://cpimg.tistatic.com/06794563/b/5/Mullite-Cordierite-Kiln-Furniture.jpeg" alt="">
+
+        </div>`
+}
+arr[28]={
+    title:'cordierite_kiln_furniture',
+    src:'',
+    content:`<h1 id="head"><u>Cordierite Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06794565/b/7/Cordierite-Kiln-Furniture.jpeg" alt="">
+
+    </div>`
+}
+
+arr[29]={
+    title:'cordierite_kiln_furniture_products',
+    src:'',
+    content:`<h1 id="head"><u>Cordierite Kiln Furniture Products</u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06795150/b/4/Cordierite-Kiln-Furniture-Products.jpeg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Cordierite Kiln Furniture Products</u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p>Amerys Special Refractory offers a wide range of Cordierite kiln furniture for use in various applications including technical ceramics, tableware, sanitaryware, powder metals, medical, heavy clay, grinding media, catalysts etc. <br>
+
+                Amerys Special Refractory Cordierite Kiln Furniture and kiln plates can be used for firing of products across a wide range of applications and industries.
+
+            </p>
+            <br>
+
+            <h4>Features of Cordierite kiln furniture products :</h4>
+            <ul>
+                <li>Lightweight design</li>
+                <li>Wide range of existing shapes</li>
+                <li>Lightweight materials</li>
+                <li>Fast track prototyping</li>
+                <li>Design capability</li>
+            </ul>
+            <br>
+<!--                             
+            <h4>Trade Information</h4>
+             <table class="table">
+                <tr>
+                    <td>FOB Port</td>
+                    <td>As per location</td>
+                </tr>
+                <tr>
+                    <td>Supply Ability</td>
+                    <td>100 Piece Ton Per Month</td>
+                </tr>
+                <tr>
+                    <td>Sample Available</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Packaging Details</td>
+                    <td>Standard & Crate Packaging.</td>
+                </tr>
+                <tr>
+                    <td>Main Domestic Market</td>
+                    <td>All India</td>
+                </tr>
+                <tr>
+                    <td>Payment Terms</td>
+                    <td>Cash Against Delivery (CAD), Cash on Delivery (COD), Cash Advance (CA), Cash in
+                        Advance (CID), Cheque, Letter of Credit (L/C), Paypal</td>
+                </tr>
+                <tr>
+                    <td>Delivery Time</td>
+                    <td>1 Months</td>
+                </tr>
+                <tr>
+                    <td>Sample Policy</td>
+                    <td>Contact us for information regarding our sample policy</td>
+                </tr>
+                <tr>
+                    <td>Main Export Market(s)</td>
+                    <td>America, North America, South America, Eastern Europe, Western Europe, Middle East,
+                        Africa</td>
+                </tr>
+            </table> -->
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+
+arr[30]={
+    title:'kiln_furniture',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06795202/b/4/Kiln-Furniture.jpeg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Furniture </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p style="color: rgb(19, 17, 17);">Refractory products used by the ceramics industry to support wares during firing are generally referred to as kiln furniture. The rigorous conditions encountered in this application demand a material that resists deformation or mechanical failure during repeated heating and cooling cycles.
+
+            </p>
+            <br>
+            <p>
+                Kiln furniture pieces are damaged by cracking, bending, the accumulation of dirt and glaze or surface degradation due to oxidation or some other form of chemical attack or contamination.
+                <br>
+                For service temperatures up to 1300Ã‚Â°C the most popular type of refractory material contains the mineral cordierite, a magnesium aluminum silicate with a very low thermal expansion coefficient, rendering it highly resistant to thermal shock. Most commercial cordierite kiln furniture bodies are formulated to produce about 50% cordierite, the remainder comprising mullite (Molochite-based or chamotte-based) and amorphous material.
+            </p>
+            <br>
+
+            
+            
+           
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}

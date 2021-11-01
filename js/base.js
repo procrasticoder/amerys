@@ -38,15 +38,15 @@ document.getElementsByTagName('header')[0].innerHTML=`
                     <div class="links"><a href="about.html">About Us</a></div>
                     <div class="links"><a href="products.html">Products</a>
                         <div id="dropdown_1">
-                            <div class="links_1"><a href="">PLAIN BATTS</a>
+                            <div class="links_1"><a href="products.html#plain_batts">PLAIN BATTS</a>
                                 <div id="dropdown_2">
-                                    <div class="links_2"><a href="">PRESSED BATTS</a></div>
-                                    <div class="links_2"><a href="">REFACTORY BATTS</a></div>
-                                    <div class="links_2"><a href="">CORDIERITE BATTS</a></div>
-                                    <div class="links_2"><a href="">EXTRUDED BATTS WITH INTERLOCK</a></div>
-                                    <div class="links_2"><a href="">INTERLOCK EXTRUDED BATTS</a></div>
-                                    <div class="links_2"><a href="">EXTRUDED BATTS</a></div>
-                                    <div class="links_2"><a href="">More Products..</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#pressed_batts">PRESSED BATTS</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#refractory_batts_1">REFACTORY BATTS</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#cordierite_batts">CORDIERITE BATTS</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#extruded_batts_with_interlock">EXTRUDED BATTS WITH INTERLOCK</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#interlock_extruded_batts">INTERLOCK EXTRUDED BATTS</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#extruded_batts">EXTRUDED BATTS</a></div>
+                                    <div class="links_2"><a href="plain_batts.html#">More Products..</a></div>
                                     <!-- <div class="links_2"><a href="">CERAMICS BATTS</a></div>
                                     <div class="links_2"><a href="">WHITE SAGGAR TRAY</a></div>
                                     <div class="links_2"><a href="">SAGGAR TRAY WITH COVER</a></div>
@@ -54,33 +54,33 @@ document.getElementsByTagName('header')[0].innerHTML=`
 
                                 </div>
                             </div>
-                            <div class="links_1"><a href="">PROFILE SETTERS</a>
+                            <div class="links_1"><a href="products.html#profile_setter">PROFILE SETTERS</a>
                                 <div id="dropdown_2">
-                                    <div class="links_2"><a href="">REFACTORY MATERIAL</a></div>
-                                    <div class="links_2"><a href="">REFACTORY SETTERS</a></div>
+                                    <div class="links_2"><a href="profile_setter.html#refractory_material">REFACTORY MATERIAL</a></div>
+                                    <div class="links_2"><a href="profile_setter.html#refractory_setters">REFACTORY SETTERS</a></div>
                                 </div>
                             </div>
-                            <div class="links_1"><a href="">EXTRUDED BATTS</a>
+                            <div class="links_1"><a href="products.html#extruded_batts">EXTRUDED BATTS</a>
                                 <div id="dropdown_2">
-                                    <div class="links_2"><a href="">SAGGAR TRAY</a></div>
-                                    <div class="links_2"><a href="">KILN PILLARS</a></div>
-                                    <div class="links_2"><a href="">REFACTORY COLLAR</a></div>
-                                    <div class="links_2"><a href="">OPEN SAGGAR TRAYS</a></div>
-                                    <div class="links_2"><a href="">CERAMICS SAGGAR TRAYS</a></div>
-                                    <div class="links_2"><a href="">SAGGAR TRAY WITH COVER</a></div>
-                                    <div class="links_2"><a href="">More Products...</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#saggar_tray_2">SAGGAR TRAY</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#kiln_pillars">KILN PILLARS</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#refractory_collar">REFACTORY COLLAR</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#saggar_trays">OPEN SAGGAR TRAYS</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#ceramic_saggar_tray">CERAMICS SAGGAR TRAYS</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#saggar_tray_with_cover">SAGGAR TRAY WITH COVER</a></div>
+                                    <div class="links_2"><a href="extruded_batts.html#">More Products...</a></div>
 
                                 </div>
                             </div>
-                            <div class="links_1"><a href="">CORDIERITE KILN FURNITURE</a>
+                            <div class="links_1"><a href="products.html#cordierite_kiln_furniture">CORDIERITE KILN FURNITURE</a>
                             <div id="dropdown_2">
-                                    <div class="links_2"><a href="">MULLITE CORDIERITE KILN FURNITURE</a></div>
-                                    <div class="links_2"><a href="">CORDIERITE KILN FURNITURE</a></div>
-                                    <div class="links_2"><a href="">CORDIERITE KILN FURNITURE PRODUCTS</a></div>
+                                    <div class="links_2"><a href="cordierite_kiln_furniture.html#mullite_cordierite_kiln_furniture">MULLITE CORDIERITE KILN FURNITURE</a></div>
+                                    <div class="links_2"><a href="cordierite_kiln_furniture.html#cordierite_kiln_furniture">CORDIERITE KILN FURNITURE</a></div>
+                                    <div class="links_2"><a href="cordierite_kiln_furniture.html#cordierite_kiln_furniture_products">CORDIERITE KILN FURNITURE PRODUCTS</a></div>
 
                                 </div>
                             </div>
-                            <div class="links_1"><a href="">KILN FURNITURE</a>
+                            <div class="links_1"><a href="products.html#kiln_furniture">KILN FURNITURE</a>
                             <!-- <div id="dropdown_2">
                                     
                                 </div> -->

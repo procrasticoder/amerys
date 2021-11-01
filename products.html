@@ -14,6 +14,7 @@
 </head>
 <body>
     <header></header>
+    
     <section class="product_intro">
         <div class="product_intro_image">
             <img src="images/products.jpg" alt="">
@@ -22,7 +23,12 @@
             <h2>Our Products</h2>
         </div>
     </section>
-
+    <nav aria-label="breadcrumb" class="px-4 py-4">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item active">Products</li>
+        </ol>
+      </nav>
     <section id="products">
         <div class="container">            
             <div class="cards" id="plain_batts" onclick="navigate(this.id)">
@@ -78,11 +84,14 @@ window.addEventListener('resize', resixeCards);
 resixeCards();
 
 function navigate(id)
-{
+{   
     var a=document.createElement('a');
     a.href=id+'.html';
+    localStorage.setItem('superProduct',id);
     a.click()
 }
+
+
 function resixeCards()
 {
    let h= window.getComputedStyle(document.getElementsByClassName('text')[0]).height;
