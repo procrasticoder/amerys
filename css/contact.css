@@ -26,14 +26,32 @@ form{
 }
 .contact_info{
     height: 400px;
-    width: 30%;
-    margin: 20px;
+    width: 35%;
+    margin: 10px 10px 10px 20px;
     /* padding: 10px 20px 10px 40px; */
     /* background-color: teal; */
     background-color: #024c86;
     color: #fff;
 }
+.info{
+    display: flex;
+}
+.info i{
+    margin: 0px 30px;
+}
+.info_social i{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50%;
+    color: white;
+    background-color:transparent;
+    font-size: 1.5rem;
+}
+.info_social i:hover{
+    color: rgb(209, 209, 209);
+    background-color:transparent;
 
+}
 
 /* location */
 .location{
@@ -45,3 +63,9 @@ form{
     height: 100%;
 }
 /* location end */
+
+.underline{
+    width: inherit;
+    height: 1px;
+    background-color: #fff;
+}

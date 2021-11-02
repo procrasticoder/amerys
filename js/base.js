@@ -1,7 +1,7 @@
 
 document.getElementsByTagName('header')[0].innerHTML=`
 <div id="logo">
-            <img src="images/amerys_logo.png" alt="Company Logo">
+            <img src="images/logo.jpg" alt="Company Logo">
         </div>
         <nav>
             <div id="infobar">

@@ -14,33 +14,75 @@
 <body>
     <header></header>
 
-    <div class="contact_img container-fluid px-0 mx-0 my-2">
+    <div class="contact_img container-fluid px-0 mx-0">
         <img src="images/contact.jpg" width="100%" height="250px"  alt="">
         <div class="contact_img_foreground">
             <h1>Contact Us</h1>
         </div>
-    </div>
+    </div> 
 
-    <div class="container contact_body my-4">
+    <div class="container-fluid contact_body py-4 px-4">
         <form>
+            <div class="mb-3 row">
+              <div class="col">
+                <label for="fname" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="fname" aria-describedby="name">
+              </div>
+              <div class="col">
+                <label for="lname" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="name" aria-describedby="lname">
+              </div>
+            </div>
             <div class="mb-3">
               <label for="exampleInputEmail1" class="form-label">Email address</label>
               <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
               <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
             </div>
-            <div class="mb-3">
-              <label for="exampleInputPassword1" class="form-label">Password</label>
-              <input type="password" class="form-control" id="exampleInputPassword1">
-            </div>
-            <div class="mb-3 form-check">
+            <!-- <div class="mb-3 form-check">
               <input type="checkbox" class="form-check-input" id="exampleCheck1">
               <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            </div> -->
+            <div class="mb-3">
+              <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="1"></textarea>
+            </div>
+            <div class="mb-3">
+              <label for="exampleFormControlTextarea1" class="form-label">Additional Information</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>
 
-          <div class="contact_info">
-            Amerys Special Refactory
+          <div class="contact_info px-4 py-4">
+            <h4 class="text-center">Amerys Special Refactory
+              <div class="underline my-2"></div>
+            </h4>
+            <div class="company_info my-4">
+              <div class="info">
+                <i class="fa fa-user" style="color:white"></i>
+                <p>Mr. M. Neelavarnam</p>
+              </div>
+              <div class="info">
+                <i class="fa fa-map-marker" style="color:white"></i>
+                <p>Plot No 18, Vaghasiya Industrial Estate, Vaghasiya Village, Wankaner Taluka, Morbi - 363622, Gujarat, India</p>
+                </div>
+                <div class="info">
+                  <i class="fa fa-phone" style="color:white"></i>
+                  <p>+91-9999999999</p>
+                </div>
+                <div class="info">
+                  <i class="fa fa-envelope" style="color:white"></i>
+                  <p>demo@gmail.com</p>
+                </div>
+            </div>
+            <div class="info_social text-center my-4">
+              <div class="underline my-2"></div>
+              <i class="fa fa-facebook"></i>
+              <i class="fa fa-instagram"></i>
+              <i class="fa fa-linkedin"></i>
+              <i class="fa fa-google"></i>
+              <i class="fa fa-youtube"></i>
+            </div>
           </div>
     </div>
 
