@@ -1895,12 +1895,132 @@ arr[29]={
 }
 
 arr[30]={
-    title:'kiln_furniture',
+    title:'insulated_hang_fire',
     src:'',
     content:`<h1 id="head"><u>Kiln Furniture </u></h1>
     <div class="image_section">
 
-        <img id="img" src="https://cpimg.tistatic.com/06795202/b/4/Kiln-Furniture.jpeg" alt="">
+        <img id="img" src="https://cpimg.tistatic.com/06795203/b/4/extra-06795203.jpeg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Furniture </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p style="color: rgb(19, 17, 17);">Refractory products used by the ceramics industry to support wares during firing are generally referred to as kiln furniture. The rigorous conditions encountered in this application demand a material that resists deformation or mechanical failure during repeated heating and cooling cycles.
+
+            </p>
+            <br>
+            <p>
+                Kiln furniture pieces are damaged by cracking, bending, the accumulation of dirt and glaze or surface degradation due to oxidation or some other form of chemical attack or contamination.
+                <br>
+                For service temperatures up to 1300Ã‚Â°C the most popular type of refractory material contains the mineral cordierite, a magnesium aluminum silicate with a very low thermal expansion coefficient, rendering it highly resistant to thermal shock. Most commercial cordierite kiln furniture bodies are formulated to produce about 50% cordierite, the remainder comprising mullite (Molochite-based or chamotte-based) and amorphous material.
+            </p>
+            <br>
+
+            
+            
+           
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[31]={
+    title:'coffee_mugs_loading_on_batts',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06795203/b/4/extra-06795204.jpeg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Furniture </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p style="color: rgb(19, 17, 17);">Refractory products used by the ceramics industry to support wares during firing are generally referred to as kiln furniture. The rigorous conditions encountered in this application demand a material that resists deformation or mechanical failure during repeated heating and cooling cycles.
+
+            </p>
+            <br>
+            <p>
+                Kiln furniture pieces are damaged by cracking, bending, the accumulation of dirt and glaze or surface degradation due to oxidation or some other form of chemical attack or contamination.
+                <br>
+                For service temperatures up to 1300Ã‚Â°C the most popular type of refractory material contains the mineral cordierite, a magnesium aluminum silicate with a very low thermal expansion coefficient, rendering it highly resistant to thermal shock. Most commercial cordierite kiln furniture bodies are formulated to produce about 50% cordierite, the remainder comprising mullite (Molochite-based or chamotte-based) and amorphous material.
+            </p>
+            <br>
+
+            
+            
+           
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[32]={
+    title:'mugs_loading',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06795203/b/4/extra-06795205.jpeg" alt="">
+
+    </div>
+    <div class="text_section">
+
+        <h2><u>Kiln Furniture </u></h2>
+        <br>
+
+        <div class="content">
+            <h4>Price And Quantity</h4>
+            <p><b>Minimum Order Quantity</b> : 100 Piece</p>
+            <p style="color: rgb(19, 17, 17);">Refractory products used by the ceramics industry to support wares during firing are generally referred to as kiln furniture. The rigorous conditions encountered in this application demand a material that resists deformation or mechanical failure during repeated heating and cooling cycles.
+
+            </p>
+            <br>
+            <p>
+                Kiln furniture pieces are damaged by cracking, bending, the accumulation of dirt and glaze or surface degradation due to oxidation or some other form of chemical attack or contamination.
+                <br>
+                For service temperatures up to 1300Ã‚Â°C the most popular type of refractory material contains the mineral cordierite, a magnesium aluminum silicate with a very low thermal expansion coefficient, rendering it highly resistant to thermal shock. Most commercial cordierite kiln furniture bodies are formulated to produce about 50% cordierite, the remainder comprising mullite (Molochite-based or chamotte-based) and amorphous material.
+            </p>
+            <br>
+
+            
+            
+           
+
+
+
+        </div>
+        <br>
+        <button class="btn btn-primary">Yes ! I am Interested</button>
+        <br>
+    </div>`
+}
+arr[33]={
+title:'tea_cup_loading_on_kiln',
+    src:'',
+    content:`<h1 id="head"><u>Kiln Furniture </u></h1>
+    <div class="image_section">
+
+        <img id="img" src="https://cpimg.tistatic.com/06795207/b/4/extra-06795207.jpeg" alt="">
 
     </div>
     <div class="text_section">
