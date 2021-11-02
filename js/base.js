@@ -101,12 +101,12 @@ document.getElementsByTagName('footer')[0].innerHTML=`
                 <h3>
                     Quick Links
                 </h3>
-                <a href="">Home</a>
-                <a href="">About Us</a>
-                <a href="">Products</a>
-                <a href="">Certificates</a>
-                <a href="">Awards</a>
-                <a href="">Contact</a>
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="products.html">Products</a>
+                <a href="certificates.html">Certificates</a>
+                <a href="awards.html">Awards</a>
+                <a href="contact.html">Contact</a>
                 <div class="footerline"></div>
             </div>
             
@@ -114,11 +114,11 @@ document.getElementsByTagName('footer')[0].innerHTML=`
                 <h3>
                     Our Products
                 </h3>
-                <a href="">PLAIN BATTS</a>
-                <a href="">PROFILE SETTERS</a>
-                <a href="">EXTRUDED BATTS</a>
-                <a href="">CORDIERITE KILN FURNITURE</a>
-                <a href="">KILN FURNITURE</a>
+                <a href="plain_batts.html">PLAIN BATTS</a>
+                <a href="profile_setter.html">PROFILE SETTERS</a>
+                <a href="extruded_batts.html">EXTRUDED BATTS</a>
+                <a href="cordierite_kiln_furniture.html">CORDIERITE KILN FURNITURE</a>
+                <a href="kiln_furniture.html">KILN FURNITURE</a>
                 <div class="footerline"></div>
             
             </div>

@@ -91,33 +91,38 @@
         </div>
         <div id="new_gallery">
             <div id="new_strip">
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id=""src="https://cpimg.tistatic.com/04099925/b/4/Saggar-Tray-With-Cover.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#saggar_tray_with _cover">
+                <img src="https://cpimg.tistatic.com/04099925/b/4/Saggar-Tray-With-Cover.jpg" alt="">
                 <div class="frame_title">Saggar Tray With Cover</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id="" src="https://cpimg.tistatic.com/04099940/b/4/Extruded-Plain-Batts.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#extruded_batts">
+                <img  src="https://cpimg.tistatic.com/04099940/b/4/Extruded-Plain-Batts.jpg" alt="">
                 <div class="frame_title">Extruded Plain Batts</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id="" src="https://cpimg.tistatic.com/03430072/b/4/Refractory-Setters.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="profile_setter.html#refractory_setters">
+                <img  src="https://cpimg.tistatic.com/03430072/b/4/Refractory-Setters.jpg" alt="">
                 <div class="frame_title">Refractory Setters</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id="Chloroform HPLC Solvent" src="https://cpimg.tistatic.com/03430083/b/4/Ceramic-Batts.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#ceramic_batts">
+                <img  src="https://cpimg.tistatic.com/03430083/b/4/Ceramic-Batts.jpg" alt="">
                 <div class="frame_title">Ceramic Batts</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id="Cyclohexane HPLC Solvent" src="https://cpimg.tistatic.com/03430079/b/4/Extruded-Batts-With-Interlock.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#extruded_batts_with_interlock">
+                <img src="https://cpimg.tistatic.com/03430079/b/4/Extruded-Batts-With-Interlock.jpg" alt="">
                 <div class="frame_title">Extruded Batts With Interlock</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id="Acetonitrile HPLC Solvent"src="https://cpimg.tistatic.com/03430062/b/4/Saggar-Tray.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#saggar_tray">
+                <img src="https://cpimg.tistatic.com/03430062/b/4/Saggar-Tray.jpg" alt="">
                 <div class="frame_title">Saggar Tray</div>
             </div>
-            <div class="new_frame">
-                <img onclick="imageClicked(this.id)" id=""src="https://cpimg.tistatic.com/03430063/b/4/Kiln-Pillars.jpg" alt="">
+            <div class="new_frame" onclick="imageClicked(this.id)" id="extruded_batts.html#kiln_pillars">
+                <img  src="https://cpimg.tistatic.com/03430063/b/4/Kiln-Pillars.jpg" alt="">
                 <div class="frame_title">Kiln Pillars</div>
+            </div>
+
+            <div class="new_frame" onclick="imageClicked(this.id)" id="plain_batts.html#ceramic_batts">
+                <img  src="https://cpimg.tistatic.com/03430083/b/4/Ceramic-Batts.jpg" alt="">
+                <div class="frame_title">Ceramic Batts</div>
             </div>
             
             </div>
@@ -142,6 +147,12 @@
     <script src="js/index.js"></script>
     <script src="js/base.js"></script>
     <script>
+        function imageClicked(id)
+        {
+            var a=document.createElement('a');
+            a.href=id;
+            a.click();   
+        }
         function explore(){
             var a=document.createElement('a');
             a.href="products.html";
