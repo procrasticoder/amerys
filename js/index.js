@@ -68,25 +68,54 @@ function func()
     console.log(stripLeft);
     
 }
+var rid;
+var lid;
+moveR();
+function moveR()
+{
+    rid=setInterval(() => {
+    right();
+}, 3000);
+}
 
-
+function moveL()
+{
+    lid=setInterval(() => {
+    left();
+}, 3000);
+}
 function left()
 {   
     pixel=-1;  
     if(stripLeft!=-1200)
+    {
     if(end) 
     start();
+    }
+
+    else{
+        // console.log('object');
+        clearInterval(lid);
+        moveR();
+    }
     
 }
 
 function right()
 {
     pixel=1;
-   
+   console.log(stripLeft);
     if(stripLeft!=0)
-    if(end)
+    {
+        if(end)
       start();
-    
+    }
+
+    else{
+        // console.log('h');
+        clearInterval(rid);
+        moveL();
+    }
 }
 
 // -----------------------------
