@@ -1,9 +1,62 @@
+document.getElementsByClassName('navbar')[0].innerHTML=`
+<div class="container-fluid ">
+        
+<a class="navbar-brand " href="#">
+    <img  src="images/logo.jpg" alt="" width="150" height="30">
+</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="about.html">About Us</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="products.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      Products
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <li><a class="dropdown-item" href="plain_batts.html">Plan Batts</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="profile_setter.html">Profile Setters</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="extruded_batts.html">Extruded Batts</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="cordierite_kiln_furniture.html">Cordierite Kiln Furniture</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="kiln_furniture.html">Kiln Furniture</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="products.html">All Products ...</a></li>
+    
+      </ul>
+  </li>
 
+  <li class="nav-item">
+    <a class="nav-link" href="certificates.html">Certificates</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="awards.html">Awards</a>
+  </li>
+
+  <li class="nav-item">
+    <a class="nav-link" href="contact.html">Contacts</a>
+  </li>
+  
+</ul>
+
+</div>
+</div>
+`
 document.getElementsByTagName('header')[0].innerHTML=`
 <div id="logo">
             <img src="images/logo.jpg" alt="Company Logo">
         </div>
-        <nav>
+        <nav class="nav">
             <div id="infobar">
                 <div class="info_items">
                     <div class="mail">

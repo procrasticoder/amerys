@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="css/contact.css">
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg navbar-light mobile " style="background-color: #fff;">
+  </nav>
     <header></header>
 
     <div class="contact_img container-fluid px-0 mx-0">
@@ -26,16 +28,16 @@
             <div class="mb-3 row">
               <div class="col">
                 <label for="fname" class="form-label">First Name</label>
-                <input type="text" class="form-control" id="fname" aria-describedby="name">
+                <input type="text" class="form-control" id="fname" aria-describedby="name" required>
               </div>
               <div class="col">
                 <label for="lname" class="form-label">Last Name</label>
-                <input type="text" class="form-control" id="name" aria-describedby="lname">
+                <input type="text" class="form-control" id="name" aria-describedby="lname" required>
               </div>
             </div>
             <div class="mb-3">
               <label for="exampleInputEmail1" class="form-label">Email address</label>
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
               <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
             </div>
             <!-- <div class="mb-3 form-check">
@@ -44,7 +46,7 @@
             </div> -->
             <div class="mb-3">
               <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="1"></textarea>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="1" required></textarea>
             </div>
             <div class="mb-3">
               <label for="exampleFormControlTextarea1" class="form-label">Additional Information</label>

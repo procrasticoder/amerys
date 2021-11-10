@@ -5,7 +5,7 @@ body{
     position: relative;
     }
 .contact_img_foreground{
-    position: absolute;
+    position: absolute; 
     top: 0;
     left: 0;
     height: 100%;
@@ -33,4 +33,33 @@ body{
     width: 100%;
     height: 2px;
     background-color: #000;
+}
+
+
+@media screen and (max-width:480px) {
+    .contact_img img{
+        height:30vh;
+    }
+    .company_profile{
+        display: flex;
+        flex-direction: column;
+        /* margin-bottom: 80px; */
+    }   
+    .company_profile img{
+        width: 90%;
+        margin: 10px auto;
+        height: 50%;
+    }
+    .company_profile p{
+        width: 100%;
+        text-align: justify;
+        
+    }
+    .row{
+        flex-direction: column;
+    }
+    .card{
+        margin: 10px 0px;
+        padding: 0px 0px;
+    }
 }
