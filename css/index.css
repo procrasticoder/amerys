@@ -265,7 +265,7 @@ margin:10px auto;
     #flash_header{
         position: relative;
         /* z-index: -1; */
-        height:40vh;
+        height:60vh;
         width: 99%;
         margin: auto;
         overflow-x: hidden;
