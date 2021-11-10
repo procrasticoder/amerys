@@ -281,7 +281,7 @@ header{
 }
 .q_links>a{
     margin:5px 0px;
-    width: fit-content;
+    width: 100%;
     text-decoration: none;
     color: white;
 }

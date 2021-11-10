@@ -63,14 +63,15 @@ document.getElementsByTagName('header')[0].innerHTML=`
                         <i class="fa fa-envelope fa-lg"></i> &nbsp; &nbsp;
                         <div class="content">
                             <div style="font-size: 0.8rem; color: rgb(56, 51, 51);">Send us an email</div>
-                            <div>demo@gmail.com</div>
+                            <div style="font-size: 0.9rem;">neelavarnam.amerys@gmail.com</div>
                         </div>
                     </div>
                     <div class="phone">
                         <i class="fa fa-phone fa-lg"></i> &nbsp; &nbsp;
                         <div class="content">
                             <div style="font-size: 0.8rem; color: rgb(56, 51, 51);">Call Us</div>
-                            <div>+91-8889787658</div>
+                            <div style="font-size: 0.9rem">
+                            +91-8758566738 <br>+91-7299061597</div>
                         </div>
                     </div>
                     <div class="social">
@@ -187,11 +188,11 @@ document.getElementsByTagName('footer')[0].innerHTML=`
 
                 <div class="q_contact_link">
                     <i class="fa fa-phone"></i>
-                    <p>+91-9999999999</p>
+                    <p>+91-8758566738 <br> +91-7299061597</p>
                 </div>
                 <div class="q_contact_link">
                     <i class="fa fa-envelope"></i>
-                    <a href="" style="text-decoration: underline; cursor: pointer;">demo@gmail.com</a>
+                    <a href="" style="text-decoration: underline; cursor: pointer;">neelavarnam.amerys@gmail.com</a>
                 </div>
                 <div class="footerline"></div>
             

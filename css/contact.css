@@ -97,6 +97,11 @@ form{
     .contact_info>h4{
         font-size: 1.2rem;
     }
+    .info {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
 
     .location{
         width: 100%;
