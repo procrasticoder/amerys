@@ -370,6 +370,9 @@ margin:10px auto;
         border-radius: 5px;
         font-size: 1.2rem;
     }
+    .welcome_msg>button:hover{
+        background-color: #155586;
+    }
 
     #new_gallery {
         width: 300px;

@@ -65,7 +65,7 @@ function func()
         end=1;
     }
     strip.style.left=stripLeft+"px";
-    console.log(stripLeft);
+    // console.log(stripLeft);
     
 }
 var rid;

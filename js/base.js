@@ -1,7 +1,7 @@
 document.getElementsByClassName('navbar')[0].innerHTML=`
 <div class="container-fluid ">
         
-<a class="navbar-brand " href="#">
+<a class="navbar-brand " href="index.html">
     <img  src="images/logo.jpg" alt="" width="150" height="30">
 </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -54,7 +54,7 @@ document.getElementsByClassName('navbar')[0].innerHTML=`
 `
 document.getElementsByTagName('header')[0].innerHTML=`
 <div id="logo">
-            <img src="images/logo.jpg" alt="Company Logo">
+            <img onclick="toHome()" src="images/logo.jpg" alt="Company Logo">
         </div>
         <nav class="nav">
             <div id="infobar">
@@ -232,3 +232,10 @@ document.getElementsByTagName('footer')[0].innerHTML=`
             </div>
             </div>
 `
+
+function toHome()
+{
+    var a=document.createElement('a');
+    a.href='index.html';
+    a.click();
+}

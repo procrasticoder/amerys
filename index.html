@@ -52,7 +52,7 @@
     <!-- flash header end-->
     <!-- mission vision -->
     <section class="mission_vision">
-        <div class="mission">
+        <div class="mission" onclick="toAbout()">
             <div class="mission_icon">
                 <img src="images/mission.png" alt="our_mission_icon">
             </div>
@@ -62,8 +62,8 @@
                     experience with profitable operations</p>  
             </div>
         </div>
-        <div class="vision">
-            <div class="vision_icon">
+        <div class="vision" onclick="toAbout()">
+            <div class="vision_icon" >
                 <img src="images/vision.png" alt="">
             </div>
             <div class="vision_content">
@@ -82,10 +82,10 @@
             <p>
                 Working towards attaining a top spot in the industry, Amerys Special Refractory is doing all it takes so as to come up with an innovative and efficient set of products for the Indian market. Acknowledged to be a trusted Manufacturer, Supplier and Exporter, we are working in this line of work since the year 2014. Based in Morbi, Gujarat, we are offering some of the finest range of Plain Batts, Profile Setters and Kiln. Appreciated for their durability aspect, such items are also given credit to for their tensile strength. Supported by a capacious warehouse, we stock each and every commodity in these divisions, so as to have a stress free time when it comes to catering to bulk orders.
             </p>
-            <button>READ MORE</button>
+            <button onclick="toAbout()">READ MORE</button>
         </div>
         <div class="welcome_img">
-            <img src="images/welcome_img.jpeg" alt="">
+            <img onclick="toAbout()" src="images/welcome_img.jpeg" alt="">
         </div>
     </section>
     <!-- welcome to website end -->
@@ -170,6 +170,13 @@
             a.href="contact.html";
             a.click();
         }
+        function toAbout()
+        {
+            var a=document.createElement('a');
+            a.href='about.html';
+            a.click();
+        }
+       
     </script>
 </body>
 </html>
