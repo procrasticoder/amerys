@@ -423,3 +423,101 @@ textarea,input:focus{
     }
     
 }
+
+
+@media screen and (max-width:1024px) and (min-width:480px){
+   header{
+       display: flex;
+       flex-direction: column;
+       /* justify-content: center; */
+       align-items: center;
+   }
+   .skew_back{
+       display: none;
+   }
+    #infobar{
+       display: none;
+   }
+   #logo{
+    width: 50%;
+    height: 100%;
+    /* background-color: teal; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-left: 20px; */
+    /* padding: 10px 0px 10px 0px; */
+    }
+    .nav{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        /* flex-direction: column; */
+    }
+    #navbar{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        font-size: 0.9rem;
+        /* flex-direction: column; */
+    }
+    #dropdown_1 .links_1 {
+        position: relative;
+        height: 100%;
+        width: 35vw;
+        padding: 10px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        border-top: 1px solid white;
+    }
+    #dropdown_2 {
+        position: absolute;
+        top: 0%;
+        left: 100%;
+        display: none;
+        flex-direction: column;
+        width: 25vw;
+        /* outline: 1px solid white; */
+        border: 1px solid white;
+        /* border-top: 0px; */
+    }
+
+    .footer_one{
+        display: grid;
+        grid-template-columns:1fr;
+        width:90%;
+        margin: 20px auto;
+        gap: 5vw 5vw;
+    }
+
+    .footerline{
+        margin-top: 20px;
+        width:100%;
+        height: 1px;
+        background-color: white;
+    }
+
+    .footer_two{
+        display: flex;
+        flex-direction: column;
+        width: inherit;
+        height: fit-content;
+        padding: 20px;
+        margin:auto;
+        font-size: 0.8rem;
+        text-align: center;
+        background-color: #1d1c1c;
+        justify-content: space-evenly;    
+    }
+    .footer_logo{
+        margin: 20px auto;
+        width: fit-content;
+    }
+    .footer_logo>img{
+        margin:0px;
+    }
+    
+
+
+}

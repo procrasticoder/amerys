@@ -384,3 +384,130 @@ margin:10px auto;
    
     
 }
+
+@media screen and (max-width:1024px) and (min-width:480px){
+
+#flash_header {
+    position: relative;
+    /* z-index: -1; */
+    height: 40vh;
+    min-height: 20vh;
+    width: 99%;
+    margin: auto;
+    overflow-x: hidden;
+}
+.flash_images_content{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    height: 100%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    color: white;
+    margin-left: 30px;
+    /* animation: text_animation 2s 1 linear forwards ; */
+}
+.buttons{
+    width: fit-content;
+    display: flex;
+}
+.buttons>button{
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    margin: 10px;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    /* display: flex; */
+    
+    
+    /* box-shadow: 0px 0px 2px 2px black; */
+}
+.flash_images_content>h1{
+    font-size: 2rem;
+}
+.flash_images_content>h3{
+    font-size: 1.2rem;
+}
+.mission_vision{
+    width: 100%;
+    height: fit-content;
+    padding: 50px 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: #171717;
+    background:linear-gradient(45deg, #014c86 20%, #fff 0%, #fff 80%, #014c86 80%);
+}
+.mission,.vision{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    background-color: rgb(214, 214, 214);
+    background-color:#fff;
+    box-shadow: 0px 0px 3px 2px #014c86;
+    margin: 20px auto ;
+}
+.mission_content{
+    text-align: center;
+}
+.vision_content{
+    text-align: center;
+}
+
+.welcome{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+
+}
+.welcome_msg>h1 {
+    color: #014880;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px;
+}
+.welcome_msg{
+    width: 100%;
+    padding:10px  0px;
+    /* background-color: tomato; */
+}
+.welcome_img{
+   display: none;
+}
+.welcome_msg>button{
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    margin: 15px ;
+    color: white;
+    
+    background-color: #286492;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+.welcome_msg>button:hover{
+    background-color: #155586;
+}
+
+#new_gallery {
+    width: 600px;
+}
+.location{
+    height: 60vh;
+}
+
+
+
+
+}
