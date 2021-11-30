@@ -225,7 +225,7 @@ document.getElementsByTagName('footer')[0].innerHTML=`
             </div>
             <div class="footer_two">
             <div class="footer_content">
-                All Rights Reserved. Rotomech Industries (Terms of Use)<br>
+                All Rights Reserved. Amerys Special Refactory (Terms of Use)<br>
                                 <a href="https://adjointindia.com/" style="color: inherit; cursor: pointer;">Powered by AdJoint India</a>
             </div>
             <div class="footer_logo">
